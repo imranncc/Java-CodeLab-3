@@ -1,4 +1,4 @@
-# Java-CodeLab-3
+# Java-Algo-1
 
 This repository hosts Java implementations of various algorithms for educational and practical purposes.
 
